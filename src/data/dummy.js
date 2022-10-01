@@ -190,7 +190,7 @@ export const zoology = [
       "Cranial nerves",
       "PNS",
     ],
-    correctAnswers: ["(a)", "(c)", "(d)", "(e)"],
+    correctAnswers: ["(e)"],
   },
 
   {

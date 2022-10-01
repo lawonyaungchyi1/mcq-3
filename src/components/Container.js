@@ -5,6 +5,8 @@ import Container from "@mui/material/Container";
 import Header from "./Header";
 import Form from "./Form";
 import MyPage from "./MyPage/MyPage";
+import ReactAudioPlayer from "react-audio-player";
+import music from "../data/music.mp3";
 
 const FixedContainer = () => {
   return (
