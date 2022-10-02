@@ -71,7 +71,7 @@ export const zoology = [
       "Synaptic transmission between a motor neuron and a skeletal muscle fiber is carried out by acetylcholine.",
       "The iris-pupll reflex protects the eye against damage by bright light.",
     ],
-    correctAnswers: ["(d)", "(e)"],
+    correctAnswers: ["(c)", "(d)", "(e)"],
   },
   {
     id: 7,
@@ -190,7 +190,7 @@ export const zoology = [
       "Cranial nerves",
       "PNS",
     ],
-    correctAnswers: ["(e)"],
+    correctAnswers: ["(c)", "(d)", "(e)"],
   },
 
   {
